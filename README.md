@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, XR
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Gaming, XR relevent project
-- 📫 How to reach me zhaiguanxun@hotmail.com/zack.zhai@bytedance.com
+- 📫 How to reach me zhaiguanxun@hotmail.com
 
 <!---
 zec37/zec37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
